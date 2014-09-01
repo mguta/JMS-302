@@ -1,0 +1,74 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="863" measuredH="998" mockupW="859" mockupH="997">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="23" y="1" w="840" h="997" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>9684093</color>
+        <text>http%3A//UnBlight.com%0A%20%0A%20</text>
+        <value>36</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="36" y="89" w="799" h="-1" measuredW="293" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20Unblight%20Macon</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="4" y="111" w="226" h="-1" measuredW="77" measuredH="63" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Unblight%20logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="245" y="132" w="439" h="-1" measuredW="431" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Join%20the%20movement%20in%20combating%20blight%20and%20repurposing%20our%20communities%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="267" y="191" w="353" h="207" measuredW="620" measuredH="417" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/1n1TzI.AuSt.71.jpeg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::LinkBar" x="274" y="153" w="-1" h="-1" measuredW="340" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%2C%20About%2C%20Why%20Care%3F%2C%20%20Get%20Involved%2C%20Sponsers</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="118" y="398" w="683" h="-1" measuredW="661" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Unblight%20intiatives%20at%20the%20Village%20Green%20Community%20Garden%20on%20Bloomfield%20Road%20-%20photo%20taken%20by%20Jason%20Vorhees</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::SubTitle" x="36" y="440" w="-1" h="-1" measuredW="163" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>About%20UnBlight</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::SubTitle" x="36" y="548" w="-1" h="-1" measuredW="120" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Why%20Care%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::SubTitle" x="30" y="670" w="-1" h="-1" measuredW="137" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Get%20Involved</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Paragraph" x="36" y="465" w="786" h="68" measuredW="275" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0AUnblight%20%u2013%20a%20national%20unconference%20on%20blight%20%u2013%20will%20bring%20together%20community%20advocates%2C%20technologists%2C%20journalists%2C%20policymakers%20and%20students%20interested%20to%20exchange%20ideas%20and%20share%20lessons%20about%20combating%20blight%20and%20repurposing%20abandoned%20parts%20of%20our%20communities.%0A%20%0A%20%0A%20%0A-</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="575" w="786" h="80" measuredW="275" measuredH="80" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>According%20to%20Reichert%2C%20Macon-Bibb%20County%20Mayor%2C%20a%20vacant%20house%20soon%20becomes%20a%20vandalized%20property%20that%20attracts%20crime%2C%20such%20as%20drugs%20and%20prostitution%2C%20and%20lowers%20property%20values%20within%20a%20quarter%20mile%20of%20the%20dilapidated%20property%2C%20which%20impacts%20sellers%2C%20buyers%2C%20property%20tax%20revenue%20and%20school%20taxes.%20And%20there%20are%20real%20human%20costs%2C%20too.%20%u201CIt%u2019s%20hard%2C%u201D%20the%20mayor%20said%2C%20%u201Cto%20raise%20children%20up%20right%20in%20a%20dilapidated%20neighborhood.%20...%20It%20breaks%20the%20spirit.%u201D%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Paragraph" x="30" y="697" w="-1" h="-1" measuredW="275" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sign%20up%20for%20the%20next%20unblight%20uniconference.%20Join%20the%20discussion%20and%20promote%20change.%20%0A%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
