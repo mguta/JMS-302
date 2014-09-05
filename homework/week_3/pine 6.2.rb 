@@ -1,0 +1,3 @@
+gets 'What do you want?!'
+want = gets.chomp
+gets 'What do you mean' + 'want.upcase' !! + 'YOU\RE FIRED' 
