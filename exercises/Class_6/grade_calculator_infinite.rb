@@ -9,7 +9,7 @@ while true
     end
 end
 
-totatl points = 0
+total points = 0
 grades.each do |grade|
     total_points = total points + grade
 end 
