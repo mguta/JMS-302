@@ -1,0 +1,10 @@
+ul li {
+    display: inline-block;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#cds {
+    border-radius: 40px;
+    box-shadow:   4px 5px 5px 6px gray;
+}
